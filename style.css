@@ -1,73 +1,218 @@
 *{
-    margin: 0;
-    padding: 0;
-    background-color: #151515;
-    box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
-  }
+  margin: 0;
+  padding: 0;
+  background-color: #151515;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* nav section styles */
 
 .nav{
-  background-color: #151515;
-  height: 80px;
-  color: #b2b2b2;
-  font-size: 14px;
-  font-weight: 500;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  gap: 260px;
+background-color: #151515;
+margin-top: 9px;
+margin-left: 25px;
+height: 70px;
+color: #b2b2b2;
+font-size: 14px;
+font-weight: 500;
+display: flex;
+flex-direction: row;
+justify-content: center;
+gap: 260px;
 }
 
 .nav-menu{
-  display: flex;
-  font-weight: 500;
-  flex-direction: row;
-  gap: 35px;
-  margin-top: 30px;
-  margin-left: -10px;
-  
+display: flex;
+font-weight: 500;
+flex-direction: row;
+gap: 35px;
+margin-top: 30px;
+margin-left: -10px;
+
 }
 
 .nav-btn{
-  display: flex;
-  flex-direction: row;
-  gap: 30px;
-  margin-top: 30px;
-  margin-left: -10px;
+display: flex;
+flex-direction: row;
+gap: 30px;
+margin-top: 30px;
+margin-left: -10px;
 }
 
 .logo{
-  margin-left: -5px;
+margin-left: -5px;
 }
 
 .logo img{
-  width: 120px;
-  margin-top: 12px;
+width: 120px;
+margin-top: 12px;
 }
 
 .downarrow{
-  margin-top: -2.5px;
+margin-top: -2.5px;
 }
 
 .downarrow img{
-  width: 6px;
+width: 6px;
 }
 .btn-2{
-  display: flex;
-  flex-direction: row;
+display: flex;
+flex-direction: row;
 }
 
 .btn-1{
-  display: flex;
-  flex-direction: row;
-  gap: 13px;
+display: flex;
+flex-direction: row;
+gap: 13px;
 }
 
 .pink img{
-  width: 37px;
-  margin-right: -20.5px;
+width: 37px;
+margin-right: -20.5px;
 }
 
 .contact{
-  background: transparent;
+background: transparent;
 }
+
+/* Simplify section styles */
+
+.get-started{
+/* background:url(./Assets/Photos/backCards.png); */
+height: 790px;
+/* background-position-x: 430px;
+background-position-y: -30px;
+background-size: 800px;
+padding-top: 20px; */
+}
+
+.Big-div{
+margin-left: 62px;
+background: transparent;
+padding-top: 10px;
+/* background:url(./Assets/Photos/frontCards.png); */
+}
+
+.simplify{
+width: 900px;
+background: transparent;
+font-family: 'Manrope', sans-serif;
+color: #ffffff;
+font-size: 78px;
+margin-top: 75px;
+line-height: 106px;
+}
+
+.simplify span{
+color: #F637EC;
+font-family: 'Manrope', sans-serif;
+font-weight: 800;
+background: transparent;
+}
+
+.hurry{
+background: transparent;
+margin-top: 32px;
+width: 550px;
+font-family: 'Manrope', sans-serif;
+font-weight: 500;
+color: #afafaf;
+font-size: 20px;
+}
+
+.get{
+display: flex;
+flex-direction: row;
+margin-top: 80px;
+background: transparent;
+}
+
+.get .pink-2 img{
+width: 70px;
+background: transparent;
+}
+
+.get-2{
+background: Transparent;
+color: aliceblue;
+font-size: 21px;
+font-weight: 500;
+padding-top: 5px;
+margin-left: -35px;
+}
+
+.right-arrow img{
+width: 50px;
+padding-top: 12px;
+margin-left: 10px;
+background: transparent;
+}
+
+.get .pink-2{
+background: transparent;
+}
+
+.right-arrow{
+background: transparent;
+}
+
+/* Users and years Section  */
+.users-years{
+display: flex;
+flex-direction: row;
+color: white;
+background: transparent;
+margin-top: 70px;
+}
+
+.plus{
+color: #F637EC;
+font-size: 37px;
+font-weight: 500;
+margin-left: 5px;
+margin-top: 5px;
+background: transparent;
+}
+
+.num-1{
+font-size: 47px;
+font-family: 'Fira Sans', sans-serif;
+font-weight: 400;
+background: transparent;
+}
+
+.num-2{
+font-size: 47px;
+font-family: 'Fira Sans', sans-serif;
+font-weight: 400;
+background: transparent;
+margin-left: 35px;
+}
+
+.active-users{
+font-size: 19px;
+width: 110px;
+margin-left: 20px;
+margin-top: 6px;
+background: transparent;
+}
+
+.years{
+font-size: 19px;
+width: 110px;
+margin-left: 20px;
+margin-top: 6px;
+background: transparent;
+}
+
+.vector{
+background: transparent;
+margin-left: 35px;
+}
+
+.vector img{
+height: 62px;
+background: transparent;
+}
+
