@@ -91,6 +91,7 @@ padding-top: 20px; */
 margin-left: 62px;
 background: transparent;
 padding-top: 10px;
+position: absolute;
 /* background:url(./Assets/Photos/frontCards.png); */
 }
 
@@ -215,4 +216,21 @@ margin-left: 35px;
 height: 62px;
 background: transparent;
 }
+.backcards img{
+  position: absolute;
+  background: transparent;
+  width: 760px;
+  margin-left: 420px;
+  margin-top: 20px;
+  
+}
+.frontcards img{
+  position: absolute;
+  background: transparent;
+  width: 600px;
+  right: 0;
+  margin-top: 88px;
+}
+
+
 
