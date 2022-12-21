@@ -232,5 +232,21 @@ background: transparent;
   margin-top: 88px;
 }
 
-
+/* mutilogo section */
+.multilogo{
+  background-color: #262525;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 208px;
+  gap: 77px;
+}
+.logo-img{
+  background: transparent;
+}
+.logo-img img{
+  background: transparent;
+  width: 120px;
+}
 
