@@ -424,5 +424,33 @@ background: transparent;
 }
 
 /* features satisfaction section */
-
-
+.satisfy{
+  height: 400px;
+}
+.satisfy .heading{
+  width: 950px;
+  color: #ffffff;
+  font-size: 69px;
+  text-align: center;
+  margin-left: 127px;
+  margin-top: 120px;
+  font-family: 'Manrope', sans-serif;
+  line-height: 96px;
+}
+.satisfy .des{
+  width: 600px;
+  color: #a5a5a5;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Manrope', sans-serif;
+  line-height: 32px;
+  margin-left: 297px;
+  margin-top: 45px;
+}
+.satisfy .heading span{
+  color: #F637EC;
+  background: transparent;
+  font-weight: 700;
+  font-size: 70px;
+  font-family: 'Manrope', sans-serif;
+}
