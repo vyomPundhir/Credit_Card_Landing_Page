@@ -578,3 +578,25 @@ background: transparent;
   margin-top: 25px;
 }
 
+/* tab section */
+.tabs{
+  height: 253px;
+  display: flex;
+  padding-top: 100px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 15px;
+}
+.pinkbtn{
+  background-color: #F637EC;
+  box-shadow: 0px 0px 50px 1px #F637EC;
+  height: 17px;
+  width: 86.5px;
+  border-radius: 10px;
+}
+.circle{
+  background-color: #444444;
+  width: 15px;
+  height: 17px;
+  border-radius: 10px;
+}
