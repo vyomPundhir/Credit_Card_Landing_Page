@@ -600,3 +600,90 @@ background: transparent;
   height: 17px;
   border-radius: 10px;
 }
+
+/* custom section */
+.pinkbgc img{
+  width: 1212.8px;
+  background: transparent;
+}
+.blurbgc img{
+  position: absolute;
+  background: transparent;
+  margin-top: -468px;
+  width: 1212.8px;
+}
+.leftdia img{
+  background: transparent;
+  position: absolute;
+  margin-top: -480px;
+  width: 450px;
+  height: 450px;
+}
+
+.rightdia img{
+  background: transparent;
+  position: absolute;
+  margin-left: 753px;
+  margin-top: -437px;
+  width: 460px;
+  height: 450px; 
+}
+
+.custom .text{
+  background: transparent;
+  position: absolute;
+  margin-top: -300px;
+  width: 1212.8px;
+  font-family: 'Manrope', sans-serif;
+}
+.custom .text .head{
+  font-family: 'Manrope', sans-serif;
+  background: transparent;
+  font-size: 67px;
+  color: white;
+  width: 880px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 85px;
+  margin-top: -58px;
+  margin-left: 175px;
+}
+.custom .text .head span{
+  font-family: 'Manrope', sans-serif;
+  background: transparent;
+  font-size: 70px;
+  color: black;
+  font-weight: 700;
+}
+.text .tail{
+  font-family: 'Manrope', sans-serif;
+  background: transparent;
+  width: 1212.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 48px;
+}
+.tail .pinkbtn{
+  background: transparent;
+}
+.tail .pinkbtn img{
+  background: transparent;
+  width: 65px;
+}
+.tail .getstarted{
+  background: transparent;
+  color:white;
+  font-size: 22px;
+  margin-left: -55px;
+  margin-top: 3px;
+}
+.tail .rightarrow{
+  background: transparent;
+}
+.tail .rightarrow img{
+  background: transparent;  
+  width: 50px; 
+  margin-top: 10px; 
+  margin-left: 10px;
+}
