@@ -687,3 +687,31 @@ background: transparent;
   margin-top: 10px; 
   margin-left: 10px;
 }
+
+/* footer */
+.footer{
+  height: 141.5px;
+}
+.footer .main{
+  display: flex;
+  flex-direction: row;
+  gap: 212px;
+  margin-top: 135px;
+  margin-left: 80px;
+}
+.footer .main .img img{
+  width: 120px;
+}
+.footer .main .info{
+  display: flex;
+  flex-direction: row;
+  gap: 35px;
+  align-items: center;
+  margin-top: -5px;
+}
+.footer .main .info .det{
+  font-size: 13.5px;
+  font-family: 'Manrope', sans-serif;
+  color: #b2b2b2;
+  font-weight: 600;
+}
